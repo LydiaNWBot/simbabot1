@@ -1,12 +1,12 @@
 {
-  "name": "discordbotdersleri",
+  "name": "greenimp",
   "version": "0.0.1",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "test": "node bot.js"
   },
-  "author": "Serhan",
+  "author": "Emre",
   "license": "ISC",
   "dependencies": {
     "anti-spam": "^0.2.7",
